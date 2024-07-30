@@ -1,1 +1,1 @@
-web: gunicorn management_system.wsgi
+web: gunicorn gym-management-system.wsgi
